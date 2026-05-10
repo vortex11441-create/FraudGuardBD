@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Foreground group scaled and centered to fit perfectly in the "Safe Zone" -->
+    <group
+        android:translateX="13"
+        android:translateY="13"
+        android:scaleX="0.75"
+        android:scaleY="0.75">
+        
+        <!-- Professional Shield Base (Bangladeshi Green) -->
+        <path
+            android:fillColor="#006A4E"
+            android:pathData="M54,10 L22,26 L22,50 C22,72.2 36.3,92.6 54,99 C71.7,92.6 86,72.2 86,50 L86,26 L54,10 Z"/>
+
+        <!-- Inner Shield (Lighter Green for depth) -->
+        <path
+            android:fillColor="#00895A"
+            android:pathData="M54,18 L30,30 L30,50 C30,66 40,82 54,88 C68,82 78,66 78,50 L78,30 L54,18 Z"/>
+
+        <!-- The "Verify" Checkmark -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M48,70 L32,54 L36.2,49.8 L48,61.6 L71.8,39.8 L76,44 L48,70 Z"/>
+
+        <!-- The "Detect" Circle badge -->
+        <path
+            android:fillColor="#F42A41"
+            android:pathData="M84,84 A14,14 0 1,1 56,84 A14,14 0 1,1 84,84 Z"/>
+
+        <!-- Exclamation Mark -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M68,76 L72,76 L72,86 L68,86 Z M68,89 L72,89 L72,92 L68,92 Z"/>
+    </group>
+
+</vector>

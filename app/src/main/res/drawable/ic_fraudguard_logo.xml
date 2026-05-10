@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background Shield Shape -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M54,12 L18,28 L18,52 C18,74.2 33.3,94.6 54,101 C74.7,94.6 90,74.2 90,52 L90,28 L54,12 Z"/>
+    
+    <!-- Inner Shield Detail -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M54,20 L26,32.4 L26,52 C26,69.5 38,85.6 54,90.6 C70,85.6 82,69.5 82,52 L82,32.4 L54,20 Z"/>
+    
+    <!-- Safety Tick / Checkmark -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,70 L34,56 L38.2,51.8 L48,61.6 L69.8,39.8 L74,44 L48,70 Z"/>
+
+    <!-- Decorative Security Dots -->
+    <path
+        android:fillColor="#42A5F5"
+        android:pathData="M54,30 A4,4 0 1,1 54,38 A4,4 0 1,1 54,30 Z"/>
+</vector>
