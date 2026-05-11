@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F8FAFC</color>
+    <color name="black">#000000</color>
+    <color name="blue_light">#EFF6FF</color>
+    <color name="blue_royal">#2563EB</color>
+    <color name="border">#E5E7EB</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="green_light">#F0FDF4</color>
+    <color name="navy_dark">#020617</color>
+    <color name="navy_deep">#0F172A</color>
+    <color name="orange_light">#FFFBEB</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="purple_accent">#7C3AED</color>
+    <color name="red_light">#FEF2F2</color>
+    <color name="risk_high">#DC2626</color>
+    <color name="risk_low">#16A34A</color>
+    <color name="risk_medium">#F59E0B</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+    <color name="text_dark">#111827</color>
+    <color name="text_muted">#64748B</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">FraudGuard BD</string>
+    <style name="ScamTypeIcon">
+        <item name="android:layout_width">32dp</item>
+        <item name="android:layout_height">32dp</item>
+        <item name="android:layout_marginBottom">4dp</item>
+    </style>
+    <style name="ScamTypeItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:background">@drawable/bg_card</item>
+        <item name="android:elevation">2dp</item>
+    </style>
+    <style name="ScamTypeText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/text_dark</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="StatusItem">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="StatusLabel">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">@color/text_dark</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">4dp</item>
+    </style>
+    <style name="StatusValue">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">@color/risk_low</item>
+    </style>
+    <style name="Theme.FraudGuardBD" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/navy_deep</item>
+        <item name="colorPrimaryVariant">@color/navy_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/blue_royal</item>
+        <item name="colorSecondaryVariant">@color/blue_royal</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <item name="android:statusBarColor">@color/navy_deep</item>
+        
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>

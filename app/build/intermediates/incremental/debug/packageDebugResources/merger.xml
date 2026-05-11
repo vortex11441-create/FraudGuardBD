@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~:!&lt;dir>navigation"><source path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res"><file name="app_logo_branded" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\drawable\app_logo_branded.png" qualifiers="" type="drawable"/><file name="bg_button_gemini" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\drawable\bg_button_gemini.xml" qualifiers="" type="drawable"/><file name="bg_button_primary" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\drawable\bg_button_primary.xml" qualifiers="" type="drawable"/><file name="bg_button_secondary" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\drawable\bg_button_secondary.xml" qualifiers="" type="drawable"/><file name="bg_card" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\drawable\bg_card.xml" qualifiers="" type="drawable"/><file name="bg_chip_blue" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\drawable\bg_chip_blue.xml" qualifiers="" type="drawable"/><file name="bg_chip_red" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\drawable\bg_chip_red.xml" qualifiers="" type="drawable"/><file name="bg_header_gradient" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\drawable\bg_header_gradient.xml" qualifiers="" type="drawable"/><file name="bg_high_risk" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\drawable\bg_high_risk.xml" qualifiers="" type="drawable"/><file name="bg_low_risk" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\drawable\bg_low_risk.xml" qualifiers="" type="drawable"/><file name="bg_medium_risk" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\drawable\bg_medium_risk.xml" qualifiers="" type="drawable"/><file name="bg_safe_reply" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\drawable\bg_safe_reply.xml" qualifiers="" type="drawable"/><file name="ic_fraudguard_logo" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\drawable\ic_fraudguard_logo.xml" qualifiers="" type="drawable"/><file name="ic_fraudguard_perfect" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\drawable\ic_fraudguard_perfect.xml" qualifiers="" type="drawable"/><file name="ic_launcher_background" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\drawable\ic_launcher_foreground.xml" qualifiers="" type="drawable"/><file name="activity_main" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_result" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\layout\activity_result.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\mipmap-hdpi\ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\mipmap-hdpi\ic_launcher_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\mipmap-mdpi\ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\mipmap-mdpi\ic_launcher_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\mipmap-xhdpi\ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\mipmap-xhdpi\ic_launcher_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\mipmap-xxhdpi\ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\mipmap-xxxhdpi\ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\values\colors.xml" qualifiers=""><color name="purple_200">#FFBB86FC</color><color name="purple_500">#6200EE</color><color name="purple_700">#3700B3</color><color name="teal_200">#03DAC5</color><color name="teal_700">#018786</color><color name="black">#000000</color><color name="white">#FFFFFF</color><color name="navy_deep">#0F172A</color><color name="navy_dark">#020617</color><color name="blue_royal">#2563EB</color><color name="purple_accent">#7C3AED</color><color name="risk_high">#DC2626</color><color name="risk_medium">#F59E0B</color><color name="risk_low">#16A34A</color><color name="background">#F8FAFC</color><color name="card_bg">#FFFFFF</color><color name="text_dark">#111827</color><color name="text_muted">#64748B</color><color name="border">#E5E7EB</color><color name="blue_light">#EFF6FF</color><color name="red_light">#FEF2F2</color><color name="orange_light">#FFFBEB</color><color name="green_light">#F0FDF4</color></file><file path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">FraudGuard BD</string></file><file path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\values\styles.xml" qualifiers=""><style name="ScamTypeItem">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:layout_margin">4dp</item>
+        <item name="android:background">@drawable/bg_card</item>
+        <item name="android:elevation">2dp</item>
+    </style><style name="ScamTypeIcon">
+        <item name="android:layout_width">32dp</item>
+        <item name="android:layout_height">32dp</item>
+        <item name="android:layout_marginBottom">4dp</item>
+    </style><style name="ScamTypeText">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/text_dark</item>
+        <item name="android:gravity">center</item>
+    </style><style name="StatusItem">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center</item>
+    </style><style name="StatusLabel">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">@color/text_dark</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">4dp</item>
+    </style><style name="StatusValue">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">@color/risk_low</item>
+    </style></file><file path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.FraudGuardBD" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/navy_deep</item>
+        <item name="colorPrimaryVariant">@color/navy_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/blue_royal</item>
+        <item name="colorSecondaryVariant">@color/blue_royal</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <item name="android:statusBarColor">@color/navy_deep</item>
+        
+        <item name="android:windowBackground">@color/background</item>
+    </style></file><file path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\values-night\colors.xml" qualifiers="night-v8"><color name="background">#020617</color><color name="card_bg">#0F172A</color><color name="text_dark">#F8FAFC</color><color name="text_muted">#94A3B8</color><color name="border">#1E293B</color><color name="blue_light">#1E293B</color><color name="red_light">#450A0A</color><color name="orange_light">#451A03</color><color name="green_light">#064E3B</color></file><file path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Theme.FraudGuardBD" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/navy_deep</item>
+        <item name="colorPrimaryVariant">@color/navy_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        
+        <item name="colorSecondary">@color/blue_royal</item>
+        <item name="colorSecondaryVariant">@color/blue_royal</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        
+        <item name="android:statusBarColor">@color/navy_dark</item>
+        
+        
+        <item name="android:windowBackground">@color/background</item>
+        <item name="colorSurface">@color/card_bg</item>
+        <item name="colorOnSurface">@color/text_dark</item>
+    </style></file><file name="backup_rules" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~:!&lt;dir>navigation"><source path="C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~:!&lt;dir>navigation"/><mergedItems/></merger>
