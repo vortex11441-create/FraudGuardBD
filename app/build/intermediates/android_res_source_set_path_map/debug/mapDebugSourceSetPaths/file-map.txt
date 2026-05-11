@@ -1,0 +1,8 @@
+com.quantumbuilders.fraudguardbd.app-pngs-0 C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\build\generated\res\pngs\debug
+com.quantumbuilders.fraudguardbd.app-updated_navigation_xml-1 C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\build\generated\updated_navigation_xml\debug
+com.quantumbuilders.fraudguardbd.app-packageDebugResources-2 C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.quantumbuilders.fraudguardbd.app-packageDebugResources-3 C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.quantumbuilders.fraudguardbd.app-debug-4 C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.quantumbuilders.fraudguardbd.app-debug-5 C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\debug\res
+com.quantumbuilders.fraudguardbd.app-main-6 C:\Users\Samir\AndroidStudioProjects\FraudGuardBD\app\src\main\res
+gradleHome-0 C:\Users\Samir\.gradle
